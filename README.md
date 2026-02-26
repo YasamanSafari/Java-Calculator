@@ -1,2 +1,2 @@
 # Java-Calculator
-The project is a calculator that demonstrates input management , code structure, collections and exception handling in a practical application.
+A modular console-based calculator in Java featuring basic and advanced operations, history management using Collections, and robust exception handling. Designed with clean structure and future scalability in mind.
